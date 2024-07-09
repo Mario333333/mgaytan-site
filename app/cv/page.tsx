@@ -18,7 +18,7 @@ export default async function CV() {
           <div className={`${styles.card_container} ${styles.presentation_card}`}>
           <Image src={example} alt="profile-image" className={styles.profile_image}/>
             <h1>Mario Cesar Gaytan Cruz</h1>
-            <h2>Ingeniero en comunicaciones y electronica</h2>
+            <h2>Ingeniero en comunicaciones y electronicaa</h2>
             <p>
               I am a programmer and I have worked how backend and front end
               developer. I have knowledge about infraestructure due to my
