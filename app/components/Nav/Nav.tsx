@@ -63,9 +63,6 @@ export default function Nav() {
               </li>
             </ol>
           </li>
-          <li className="menu-item">
-            <Link href="#0">Contact</Link>
-          </li>
         </ol>
       )}
     </nav>

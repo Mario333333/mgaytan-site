@@ -47,6 +47,8 @@
   top: 10px;
   width: 150px;
   height: 150px;
+  border-radius: 100%;
+
 }
 
 .presentation_card {
@@ -103,6 +105,7 @@
   .presentation_card .profile_image {
     width: 60px;
     height: 60px;
+    border-radius: 100%;
   }
 
   .card_container {
@@ -110,17 +113,18 @@
   }
 
   .section h1 {
-    font-size: 16px;
+    font-size: 14px;
 
   }
   
   .card_container h2 {
-    font-size: 14px;
+    font-size: 12px;
   }
   
   .card_container p, .card_container a, .card_container li{
-    font-size: 12px;
+    font-size: 10px;
   }
+
 }
   
   @media (431px <= width <= 768px) {

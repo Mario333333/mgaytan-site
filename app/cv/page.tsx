@@ -1,7 +1,7 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 
-import example from "../resources/sqrpop.png";
+import example from "../resources/profileImage.jpeg";
 import facebookIconGray from "../resources/icons/facebook.svg";
 import whatsappIconGray from "../resources/icons/whatsapp.svg";
 import twitterIconGray from "../resources/icons/twitter.svg";
