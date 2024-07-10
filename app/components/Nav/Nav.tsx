@@ -47,7 +47,7 @@ export default function Nav() {
             <Link href="/">Me</Link>
           </li>
           <li className="menu-item">
-            <Link href="/">Portfolio</Link>
+            <Link href="/portfolio">Portfolio</Link>
           </li>
           <li className="menu-item">
             <Link href="/cv">CV</Link>
@@ -59,7 +59,7 @@ export default function Nav() {
                 <Link href="#work_experience">Work Experience</Link>
               </li>
               <li className="menu-item">
-                <Link href="#education">Education</Link>
+                <Link href="#education">Skills</Link>
               </li>
             </ol>
           </li>
