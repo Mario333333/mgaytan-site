@@ -53,13 +53,13 @@ export default function Nav() {
             <Link href="/cv">CV</Link>
             <ol className="sub-menu">
               <li className="menu-item">
-                <Link href="#presentation">Presentation</Link>
+                <Link href="cv#presentation">Presentation</Link>
               </li>
               <li className="menu-item">
-                <Link href="#work_experience">Work Experience</Link>
+                <Link href="cv#work_experience">Work Experience</Link>
               </li>
               <li className="menu-item">
-                <Link href="#education">Skills</Link>
+                <Link href="cv#education">Skills</Link>
               </li>
             </ol>
           </li>
