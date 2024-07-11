@@ -36,7 +36,7 @@ export const contact = {
   items: [
     {
       title: "Facebook",
-      link: "https://www.facebook.com/mario.gaytan.98",
+      link: "https://www.facebook.com/mgcleanDev",
       alt: "facebook-icon",
       icon: facebookIconGray,
     },
