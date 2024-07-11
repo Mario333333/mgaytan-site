@@ -13,7 +13,6 @@ const Card: React.FC<CardProps> = ({ title, description, activities, duration })
             <h2>{title}</h2>
             <p>{description}</p>
             <p>{activities}</p>
-            <p>{activities}</p>
             <p className='duration'>{duration}</p>
         </div>
     );
