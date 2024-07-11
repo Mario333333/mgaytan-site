@@ -73,7 +73,7 @@ a:after {
 }
 .menu > ol > li a:not(:last-child):before {
   content: "\f078";
-  font-family: fontAwesome;
+  font-family: var(--font-mono);
   font-size: .75em;
   line-height: 50px;
   position: absolute;
